@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyNotesApp</string>
+    <string name="to_do">to do</string>
+    <string name="save">save</string>
+</resources>
